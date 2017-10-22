@@ -1,4 +1,8 @@
 # Spring Boot Recipe Application
+
+[![CircleCI](https://circleci.com/gh/saurabhpro/spring-guru-104-spring-mvc-recipies.svg?style=svg)](https://circleci.com/gh/saurabhpro/spring-guru-104-spring-mvc-recipies)
+
+[![codecov](https://codecov.io/gh/saurabhpro/spring-guru-104-spring-mvc-recipies/branch/master/graph/badge.svg)](https://codecov.io/gh/saurabhpro/spring-guru-104-spring-mvc-recipies)
  
  ## Class Entity Modelling
 
