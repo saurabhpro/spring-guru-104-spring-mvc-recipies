@@ -106,6 +106,9 @@
                         <version>5.0.1</version>
                     </dependency>
                 </dependencies>
+                <!--configuration>
+                    <argLine>add-modules=java.xml.bind</argLine>
+                </configuration-->
             </plugin>
 
             <plugin>
